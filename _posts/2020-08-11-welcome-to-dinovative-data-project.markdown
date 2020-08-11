@@ -1,6 +1,8 @@
 ---
 layout: post
 title:  "Welcome to Dinovative Data Project!"
+date:   2020-08-11 14:39:02 +0700
+categories: Introduction
 ---
 
 ## Table of contents
