@@ -1,8 +1,6 @@
 ---
 layout: post
 title:  "Palmer"
-date:   2020-08-11 16:39:02 +0700
-categories: Introduction
 ---
 
 ## Table of contents
