@@ -28,7 +28,7 @@ twitter_username: ndduy
 github_username: ndduy
 
 # Build settings
-theme: no-style-please
+theme: minima
 plugins:
   - jekyll-feed
 # Exclude from processing.
