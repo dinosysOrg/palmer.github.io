@@ -3,6 +3,7 @@ layout: post
 title:  "Welcome to Dinovative Data Project!"
 date:   2020-08-11 14:39:02 +0700
 categories: Introduction
+featured_image: /assets/img/sections/twk-tt.jpg
 ---
 
 ## Table of contents

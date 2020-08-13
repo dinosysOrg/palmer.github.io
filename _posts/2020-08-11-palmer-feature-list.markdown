@@ -3,6 +3,7 @@ layout: post
 title:  "Palmer"
 date:   2020-08-11 16:39:02 +0700
 categories: Introduction
+featured_image: /assets/img/sections/austin.jpg
 ---
 
 ## Table of contents

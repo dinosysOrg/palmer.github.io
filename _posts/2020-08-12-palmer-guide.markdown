@@ -3,6 +3,7 @@ layout: post
 title:  "Guide"
 date:   2020-08-12 09:39:02 +0700
 categories: Introduction
+featured_image: /assets/img/sections/pawel-nolbert.jpg
 ---
 
 # Table of contents
